@@ -1,6 +1,6 @@
 import cv2 as cv
 
-image = cv.imread("Photos/cat.jpg")
+image = cv.imread("Photos/park.jpg")
 cv.imshow("Cat", image)
 
 # convertir une image en couleur grise
